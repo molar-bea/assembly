@@ -16,5 +16,10 @@ Access Machine (RAM) model from the perspective of the 8086 architecture.
 <strong>PROBLEM BACKGROUND</strong>
 
 MEMORY MAP
-<img src="assets/img001.png" alt="Memory Map Table">
+<img src="../assets/img001.png" alt="Memory Map Table">
 
+Using the 8086 Emulator, write the appropriate variables on the code segment for the
+indicated memory map. Take note that the variables in the code segment is stored in the
+memory on reverse byte sequence.
+
+<img src="../assets/img002.png" alt="Instructions">
